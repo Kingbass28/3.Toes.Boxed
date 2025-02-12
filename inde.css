@@ -1,0 +1,47 @@
+* {
+    background-color: rgb(3, 207, 252);
+}
+
+h1 {
+    text-align: center;
+    color: greenyellow;
+    font-family:Chalkduster, fantasy
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+    
+
+.link-container {
+    display: flex;
+    justify-content: center;
+    }
+
+.link-container a {
+    margin-right: 20px;
+    color: darkblue;
+}
+
+.link-container a:last-child {
+    margin-right: 0px;
+}
+
+div {
+    text-align: center;
+    letter-spacing: 5px;
+    font-family: Marker Felt, fantasy;
+}
+
+h2 {
+    color: greenyellow;
+    font-size: 30px;
+    font-family: Comic Sans MS, Comic Sans,;
+}
+
+p {
+    color: darkblue;
+}
